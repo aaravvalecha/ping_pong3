@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    
+ }
+ .heading button{
+     float: right;
+     border: 1px solid whitesmoke;
+ }
+ .heading h3{
+    display: inline;
+}.footer{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(165, 98, 98);
+text-align: center;
+font-family: cursive;
+color:white;
+line-height: 2;
+
+}
+canvas{
+    border:2px solid red ;
+    box-shadow: 5px 5px orangered;
+    border-radius:30px;
+}
